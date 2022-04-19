@@ -2,3 +2,103 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/index</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/store</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/reviews</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/gallery-All</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/gallery-After-Foxy-TLC-</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/gallery-Interior</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/gallery-Exterior</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/gallery-Before-Foxy-TLC-</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/service-Car-Detail</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/service-Heavy-Machinery-Detail</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/service-SUV-Detail</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/service-Truck-Detail</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/service-Boat-Detail</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://www.foxyturtledetailing.com/service-Semi-Truck-Detail</loc>
+        <lastmod>2022-04-18</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
